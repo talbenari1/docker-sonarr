@@ -1,0 +1,4 @@
+[submodule "sonarr"]
+	path = sonarr
+	url = git@github.com:Sonarr/Sonarr.git
+	branch = develop
