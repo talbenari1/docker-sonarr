@@ -7,5 +7,4 @@ git checkout $TAG
 npm install
 
 bash ./build.sh
-bash ./test.sh
 
